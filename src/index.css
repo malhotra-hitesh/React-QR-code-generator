@@ -1,0 +1,13 @@
+
+.input-box{
+  border-radius: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: medium;
+ }
+ 
+.generate-btn{
+   border-radius: 5px;
+   color: rgb(72, 16, 16);
+   background-color: rgb(167, 222, 135);
+  
+ }
